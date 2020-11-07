@@ -1,0 +1,26 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "track employee on SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CucciPro/EmployeeTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CucciPro/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/CucciPro/EmployeeTracker#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.2.5"
+  }
+}
