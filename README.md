@@ -36,11 +36,10 @@ This project is licensed under the [](https://choosealicense.com/licenses/) lice
 undefined 
 
 
-## Tests
+## Mock
 
-Run the following commmands to run a test:
+![Mock](https://github.com/CucciPro/NoteTaker/blob/master/public/assets/images/demo.gif)
 
-No tests. 
 
 ## Questions
 
