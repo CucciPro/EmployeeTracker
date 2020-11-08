@@ -6,7 +6,7 @@ A tool that will allow users to view all user, roles, and departments of their c
 
 ## Badges
 
-![](https://img.shields.io/static/v1?label=license&message=&color=brightgreen?style=plastic&logo=appveyor)
+![](https://img.shields.io/static/v1?label=license&message=mit&color=brightgreen?style=plastic&logo=appveyor)
 
 ## Table of Contents
 
