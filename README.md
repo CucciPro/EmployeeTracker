@@ -38,7 +38,7 @@ undefined
 
 ## Mock
 
-![Mock](https://github.com/CucciPro/NoteTaker/blob/master/assets/images/demo.gif)
+![Mock](https://github.com/CucciPro/EmployeeTracker/blob/master/assets/images/demo.gif)
 
 
 ## Questions
