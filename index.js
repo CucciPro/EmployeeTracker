@@ -20,7 +20,7 @@ db.connect(err => {
 });
 
 function displayLogo() {
-    const logoText = logo({ name: 'Employee Manager' }).render();
+    const logoText = logo({ name: 'EmployeeTracker' }).render();
   
     console.log(logoText);
 
