@@ -6,7 +6,7 @@ A tool that will allow users to view all user, roles, and departments of their c
 
 ## Badges
 
-![](https://img.shields.io/static/v1?label=license&message=&color=brightgreen?style=plastic&logo=appveyor)
+![](https://img.shields.io/static/v1?label=license&message=mit&color=brightgreen?style=plastic&logo=appveyor)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ A tool that will allow users to view all user, roles, and departments of their c
 
 ## Installation
 
-run "npm i" in terminal to install dependancies. run node index to start tool
+run "npm i" in terminal to install dependancies. run "node index" to start tool
 
 
 ## Usage 
@@ -36,11 +36,10 @@ This project is licensed under the [](https://choosealicense.com/licenses/) lice
 undefined 
 
 
-## Tests
+## Mock
 
-Run the following commmands to run a test:
+![Mock](https://github.com/CucciPro/NoteTaker/blob/master/assets/images/demo.gif)
 
-No tests. 
 
 ## Questions
 
