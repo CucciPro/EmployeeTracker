@@ -18,7 +18,7 @@ A tool that will allow users to view all user, roles, and departments of their c
 
 ## Installation
 
-run "npm i" in terminal to install dependancies. run node index to start tool
+run "npm i" in terminal to install dependancies. run "node index" to start tool
 
 
 ## Usage 
