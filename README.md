@@ -18,7 +18,7 @@ A tool that will allow users to view all user, roles, and departments of their c
 
 ## Installation
 
-run "npm i" in terminal to install dependancies. run "node index" to start tool
+run "npm i" in terminal to install dependancies. Login to mysql and create database with "source database/schema.sql" and seed the database with "source database/seed.sql" (seeding optional). Run "node index" to start tool.
 
 
 ## Usage 
@@ -31,9 +31,9 @@ View all option directly from the terminal. Select what you would like to do and
 This project is licensed under the [](https://choosealicense.com/licenses/) license.
 
 
-## Contributing
+## Walkthrough 
 
-undefined 
+[Google Drive](https://drive.google.com/file/d/139TE43hKXrkpdqbGnnejkSuIEMFtFPmA/view)
 
 
 ## Mock
